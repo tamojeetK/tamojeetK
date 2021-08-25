@@ -1,6 +1,6 @@
 ### Hola, I'm Tamojeet Kuila 👋
 
-- 👋 Hi, I’m @tamojeetK
+
 - 👀 I’m interested in Competitive Programming and Learning new stuffs everyday.
 - 🌱 I’m currently learning new languages...
 - 🤔 I’m looking to collaborate on opensource.
