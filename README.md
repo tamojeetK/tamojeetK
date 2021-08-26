@@ -1,4 +1,4 @@
-### Hola, I'm Tamojeet Kuila 👋
+### Hi there!!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Tamojeet Kuila
 
 
 - 👀 I’m interested in Competitive Programming and Learning new stuffs everyday.
