@@ -13,4 +13,7 @@
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a><br>
 <br>
+- 👀 I’m interested in Competitive Programming and Opensource Contribution.<br>
+- 🌱 I’m currently learning new languages...<br>
+- 🤔 I’m looking to collaborate on Opensource.<br>
 
