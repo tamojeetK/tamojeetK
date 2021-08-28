@@ -1,8 +1,8 @@
 ![octocat-primed](https://user-images.githubusercontent.com/89387048/131071849-30e75028-e0f4-4930-9d88-6d0901b9f344.png)
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px"> 
-  <img src="https://user-images.githubusercontent.com/89387048/131108055-b2348f96-5467-4a2a-9e74-2782ed7c0cb9.gif" width="80px">
+
+  <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b76119eef0d7b1316b871fd15cdb5cb1a64ade1058bdb&rid=giphy.gif&ct=s" width="80px">
   <img src="https://readme-typing-svg.herokuapp.com?color=67F7A4&lines=Hi+!+!;My+name+is+Tamojeet...;Nice+to+see+you+here+!&center=true&size=30">
  
 </h1>
