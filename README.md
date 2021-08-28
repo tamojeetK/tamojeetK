@@ -10,13 +10,22 @@
   <img src="https://komarev.com/ghpvc/?username=tamojeetK&style=flat-square&color=4c8ed9">
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a><br>
+ <h3 align="center"><i> "This page is Sponsored by a Cup of Coffee" <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/></i></h3>
+  <br>
 <br>
 - 👀 I’m interested in Competitive Programming and Opensource Contribution.<br>
 - 🌱 I’m currently learning new languages...<br>
 - 🤔 I’m looking to collaborate on Opensource.<br>
 <br>
 <br>
+<p align="center">
 
 <img width="370px" src="https://github-readme-stats.vercel.app/api?username=tamojeetK&custom_title=Tamojeet's+GitHub+States&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=1bcf62&text_color=878787&icon_color=bb2acf&cache_seconds=1800" />
-<img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=tamojeetK&background=00000000&hide_border=true&stroke=878787&ring=1bcf62&fire=18b158&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /></h5>
+<img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=tamojeetK&background=00000000&hide_border=true&stroke=878787&ring=1bcf62&fire=18b158&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<br>
+<br>
+  <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/>
+  </p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=tamojeetK&theme=dracula&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true"><br><br>
+  
 
