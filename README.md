@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=tamojeetK&style=flat-square&color=4c8ed9">
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a><br>
- <h3 align="center"><i> "This page is Sponsored by a Cup of Coffee" <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/></i></h3>
+ <h4 align="center"><i> "A cup of coffee + music + coding  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>Is something much needed at midnight."</i></h4>
   <br>
 <br>
 - 👀 I’m interested in Competitive Programming and Opensource Contribution.<br>
