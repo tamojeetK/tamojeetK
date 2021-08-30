@@ -16,7 +16,10 @@
  <img src="https://badges.pufler.dev/commits/monthly/tamojeetK"/>
 </p>
  <br>
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center">
+  Reach me on socials
+  <br><img src="https://i.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.webp" width="50">
+</h2>
 <p align="center">
   <a href="https://www.instagram.com/ahaan_tenemus/" alt="instagram Follow">
 <img src="https://img.shields.io/badge/-Tamojeet-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" /></a>
@@ -25,7 +28,6 @@
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
 <img src="https://img.shields.io/badge/-tamojeetkuila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" /></a>
 </p>
-
 
  <br>
  <h4 align="center"><i> "A cup of coffee + music + coding  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>Is something much needed at midnight."</i></h4>
@@ -44,6 +46,4 @@
 <br>
   <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/>
   </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tamojeetK&theme=dracula&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true"><br><br>
-  
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=tamojeetK&theme=dracula&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true"><br>
