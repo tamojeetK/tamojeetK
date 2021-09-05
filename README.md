@@ -7,12 +7,13 @@
  
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tamojeetK&style=flat-square&color=4c8ed9">
+  <img src="https://komarev.com/ghpvc/?username=tamojeetK&style=flat&color=4c8ed9">
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a>
 <p align="center">
  <img src="https://badges.pufler.dev/years/tamojeetK"/>
  <img src="https://badges.pufler.dev/repos/tamojeetK"/>
+  <img src="https://badges.pufler.dev/created/tamojeetK/tamojeetK"/>
  <img src="https://badges.pufler.dev/commits/monthly/tamojeetK"/>
 </p>
  <br>
@@ -22,7 +23,7 @@
 </h2>
 <p align="center">
   <a href="https://www.instagram.com/ahaan_tenemus/" alt="instagram Follow">
-<img src="https://img.shields.io/badge/-TAMOJEET-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" /></a>
+<img src="https://img.shields.io/badge/-TAMOJEET-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" /></a>
   <a href="mailto:aahankuila@gmail.com" alt="Email">
 <img src="https://img.shields.io/badge/-aahankuila@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aahankuila@gmail.com" />
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
