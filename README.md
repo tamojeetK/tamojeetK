@@ -22,8 +22,8 @@
   <br><img src="https://i.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.webp" width="50">
 </h2>
 <p align="center">
-  <a href="https://www.instagram.com/ahaan_tenemus/" alt="instagram Follow">
-<img src="https://img.shields.io/badge/-TAMOJEET-d72876?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" /></a>
+  <a href="https://www.instagram.com/ahaan_tenemus/" alt="instagram Follow" target="_blank" >
+<img src="https://img.shields.io/badge/-TAMOJEET-d72876?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" target="_blank" /></a>
   <a href="mailto:aahankuila@gmail.com" alt="Email">
 <img src="https://img.shields.io/badge/-aahankuila@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aahankuila@gmail.com" />
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
