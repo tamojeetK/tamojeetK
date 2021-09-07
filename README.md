@@ -35,7 +35,7 @@
   <br>
 <br>
 - 👀 I’m interested in Competitive Programming and Opensource Contribution.<br>
-- 🌱 I’m currently learning new languages...<br>
+- 🌱 I’m currently learning DSA and Python.<br>
 - 🤔 I’m looking to collaborate on Opensource.<br>
 <br>
 <br>
