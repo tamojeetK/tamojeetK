@@ -15,6 +15,7 @@
  <img src="https://badges.pufler.dev/repos/tamojeetK"/>
   <img src="https://badges.pufler.dev/created/tamojeetK/tamojeetK"/>
  <img src="https://badges.pufler.dev/commits/monthly/tamojeetK"/>
+  
 </p>
  <br>
 <h2 align="center">
