@@ -14,7 +14,7 @@
  <img src="https://badges.pufler.dev/years/tamojeetK"/>
  <img src="https://badges.pufler.dev/repos/tamojeetK"/>
   <img src="https://badges.pufler.dev/created/tamojeetK/tamojeetK"/>
- <img src="https://badges.pufler.dev/commits/monthly/tamojeetK"/>
+ 
   
 </p><br>
 A 19 y/o Tech Enthusiast from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like 🗿automating things, ✒️desiging cool UI/UX prototypes, exploring scalability problems and improving efficiency and performance.
