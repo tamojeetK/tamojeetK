@@ -36,7 +36,6 @@ A 19 y/o Tech Enthusiast from India. I'm passionate about Full-Stack Web Develop
  <h4 align="center"><i> "A cup of coffee + music + coding  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>Is something much needed at midnight."</i></h4>
   <br>
 <br>
-- 👀 I’m interested in Competitive Programming and Opensource Contribution.<br>
 - 🌱 I’m currently learning DSA and Python.<br>
 - 🤔 I’m looking to collaborate on Opensource.<br> 
 <br>
