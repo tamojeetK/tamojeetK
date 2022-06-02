@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-  <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b76119eef0d7b1316b871fd15cdb5cb1a64ade1058bdb&rid=giphy.gif&ct=s" width="80px">
+  <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b76119eef0d7b1316b871fd15cdb5cb1a64ade1058bdb&rid=giphy.gif&ct=s" height="80px">
   <img src="https://readme-typing-svg.herokuapp.com?color=67F7A4&lines=Ahoy+!+!;Hi+there+!+!;नमस्ते+!+!;My+name+is+Tamojeet...;Nice+to+see+you+here+!&center=true&size=25">
  
 </h1>
