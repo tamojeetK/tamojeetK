@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a>
 <p align="center">
- <img src="https://badges.pufler.dev/years/tamojeetK"/>
+
  <img src="https://badges.pufler.dev/repos/tamojeetK"/>
   <img src="https://badges.pufler.dev/created/tamojeetK/tamojeetK"/>
  
@@ -27,6 +27,7 @@ A 19 y/o Tech Enthusiast from India. I'm passionate about Full-Stack Web Develop
   <br><img src="https://i.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.webp" width="50">
 </h2>
 <p align="center">
+  
   <a href="https://www.instagram.com/ahaan_tenemus/" alt="instagram Follow" >
 <img src="https://img.shields.io/badge/-TAMOJEET-d72876?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ahaan_tenemus/" /></a>
   <a href="mailto:aahankuila@gmail.com" alt="Email">
