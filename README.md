@@ -6,21 +6,22 @@
 <h1 align="center">
 
   <img src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b76119eef0d7b1316b871fd15cdb5cb1a64ade1058bdb&rid=giphy.gif&ct=s" height="80px">
-  <img src="https://readme-typing-svg.herokuapp.com?color=67F7A4&lines=Ahoy+!+!;Hi+there+!+!;नमस्ते+!+!;My+name+is+Tamojeet...;Nice+to+see+you+here+!&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com?color=67F7A4&lines=Ahoy+!+!;Kon'nichiwa+!+!;Hi+there+!+!;नमस्ते+!+!;My+name+is+Tamojeet...;Nice+to+see+you+here+!&center=true&size=25">
  
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tamojeetK&style=flat&color=4c8ed9">
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a>
+  
 <p align="center">
 
- <img src="https://badges.pufler.dev/repos/tamojeetK"/>
-  <img src="https://badges.pufler.dev/created/tamojeetK/tamojeetK"/>
- 
-  
 </p><br>
-A 19 y/o Tech Enthusiast from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like 🗿automating things, ✒️desiging cool UI/UX prototypes, exploring scalability problems and improving efficiency and performance.
+
+I'm currently a student. Currently I'm learning about Full-Stack Web Development👨🏻‍💻. <br>I like 🗿automating things, ✒️desiging cool UI/UX prototypes.<br>
+I am working on some side projects, learning a couple new dishes🥘, and trying out more exciting stuffs.<br>
+Oh! I also enjoy designing stuffs on Adobe Creative Suite🎨🖌️.
+
  <br>
 <h2 align="center">
   Reach me on socials
@@ -34,14 +35,38 @@ A 19 y/o Tech Enthusiast from India. I'm passionate about Full-Stack Web Develop
 <img src="https://img.shields.io/badge/-aahankuila@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:aahankuila@gmail.com" />
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
 <img src="https://img.shields.io/badge/-TamojeetKuila-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" /></a>
+ <a href="https://dev.to/tamojeetk"><img src="https://img.shields.io/badge/-@tamojeetk-0A0A0A?style=flat&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/tamojeetk" alt="DevTo Badge"></a>
+  <a href="https://open.spotify.com/user/31so775243hasoorlsjzhi53mhwi"><img src="https://img.shields.io/badge/-@Ahaan%20Tenemus-1ED760?style=flat&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31so775243hasoorlsjzhi53mhwi" alt="Spotify Badge"></a>
 </p>
 
  <br>
  <h4 align="center"><i> "A cup of coffee + music + coding  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>Is something much needed at midnight."</i></h4>
   <br>
 <br>
-- 🌱 I’m currently learning DSA and Python.<br>
-- 🤔 I’m looking to collaborate on Opensource.<br> 
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/89387048/177203800-13692123-4940-4c43-ac66-11b37d588911.png" width="30"/>
+Some Languages & Tools I am experienced with... <img src="https://user-images.githubusercontent.com/89387048/177203800-13692123-4940-4c43-ac66-11b37d588911.png" width="30"/>
+<br><img src="https://i.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.webp" width="50"></h2>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
+</p>
 <br>
 <br>
 
