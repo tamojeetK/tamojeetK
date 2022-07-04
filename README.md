@@ -40,7 +40,7 @@ Oh! I also enjoy designing stuffs on Adobe Creative Suite🎨🖌️.
 </p>
 
  <br>
- <h4 align="center"><i> "A cup of coffee + music + coding  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>Is something much needed at midnight."</i></h4>
+ <h4 align="center"><i> "A cup of coffee + Lo-fi + VS-Code  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>= A night owl's starter pack."</i></h4>
   <br>
 <br>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/89387048/177203800-13692123-4940-4c43-ac66-11b37d588911.png" width="30"/>
