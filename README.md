@@ -20,7 +20,7 @@
 
 I'm currently a student. Currently I'm learning about Full-Stack Web Development👨🏻‍💻. <br>I like 🗿automating things, ✒️desiging cool UI/UX prototypes.<br>
 I am working on some side projects, learning a couple new dishes🥘, and trying out more exciting stuffs.<br>
-Oh! I also enjoy designing stuffs on Adobe Creative Suite🎨🖌️.
+Oh! I also enjoy designing stuffs on Adobe Creative Cloud Suite 🎨🖌️.
 
  <br>
 <h2 align="center">
