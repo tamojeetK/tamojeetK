@@ -43,6 +43,11 @@ Oh! I also enjoy designing stuffs on Adobe Creative Cloud Suite 🎨🖌️.
  <h4 align="center"><i> "A cup of coffee + Lo-fi + VS-Code  <img src="https://emojis.slackmojis.com/emojis/images/1613284582/12797/meow_coffee.png?1613284582" width="30"/><br>= A night owl's starter pack."</i></h4>
   <br>
 <br>
+
+[![@tamojeetk's Holopin board](https://holopin.me/tamojeetk)](https://holopin.io/@tamojeetk)
+<br>
+<br>
+<hr>
 <h2 align="center"> <img src="https://user-images.githubusercontent.com/89387048/177203800-13692123-4940-4c43-ac66-11b37d588911.png" width="30"/>
 Some Languages & Tools I am experienced with... <img src="https://user-images.githubusercontent.com/89387048/177203800-13692123-4940-4c43-ac66-11b37d588911.png" width="30"/>
 <br><img src="https://i.giphy.com/media/UrzWDQ3VTiDU84R5dx/giphy.webp" width="50"></h2>
