@@ -84,4 +84,5 @@ Some Languages & Tools I am experienced with... <img src="https://user-images.gi
 <br>
   <img src="https://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471" width="30"/>
   </p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tamojeetK&theme=dracula&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true"><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tamojeetK&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true">
+  <br>
