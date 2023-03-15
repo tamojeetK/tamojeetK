@@ -13,15 +13,16 @@
   <img src="https://komarev.com/ghpvc/?username=tamojeetK&style=flat&color=4c8ed9">
   <a href="https://www.linkedin.com/in/tamojeet-kuila-08974b1b7/" alt="LinkedIn Follow">
   <img src="https://img.shields.io/badge/Tamojeet_Kuila-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/linkedin.com/in/tamojeet-kuila-08974b1b7/"/></a>
-  
+
 <p align="center">
 
 </p><br>
 
-I'm currently a student. I'm learning about Full-Stack Web Development👨🏻‍💻. <br>I like 🗿automating things, ✒️desiging cool UI/UX prototypes.<br>
+I'm currently a student. I'm learning full-stack  ![text](https://user-images.githubusercontent.com/89387048/225314663-ea2d877f-dcad-40fe-96df-c2bc8de11a8d.gif).
+ <br>
+My interests lie in automating processes, ✒️designing cool UI/UX prototypes.<br>
 I am working on some side projects, learning a couple new dishes🥘, and trying out more exciting stuffs.<br>
-Oh! I also enjoy designing stuffs on Adobe Creative Cloud Suite 🎨🖌️.
-
+When I'm not coding , you can find me designing creative content using Adobe Creative Cloud Suite🎨🖌️.
  <br>
 <h2 align="center">
   Reach me on socials
