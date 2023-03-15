@@ -18,9 +18,10 @@
 
 </p><br>
 
-I'm currently a student. I'm learning full-stack  ![text](https://user-images.githubusercontent.com/89387048/225314663-ea2d877f-dcad-40fe-96df-c2bc8de11a8d.gif).
+I'm currently a student. I'm learning full-stack &ensp;  ![text](https://user-images.githubusercontent.com/89387048/225315634-6beb39ef-3fcb-4ca4-b892-77fd5cbdb927.gif)
+.
  <br>
-My interests lie in automating processes, ✒️designing cool UI/UX prototypes.<br>
+My interests lie in automating processes, ✒️designing cool UI/UX prototypes and bringing them to life.<br>
 I am working on some side projects, learning a couple new dishes🥘, and trying out more exciting stuffs.<br>
 When I'm not coding , you can find me designing creative content using Adobe Creative Cloud Suite🎨🖌️.
  <br>
