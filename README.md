@@ -78,14 +78,13 @@ Some Languages & Tools I am experienced with... <img src="https://user-images.gi
 
 <p align="center">
 
-<!--<img width="370px" src="https://github-readme-stats.vercel.app/api?username=tamojeetK&custom_title=My+GitHub+States&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=1bcf62&text_color=878787&icon_color=bb2acf&cache_seconds=1800"/>-->
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=tamojeetK&custom_title=My+GitHub+States&count_private=true&show_icons=true&&hide_border=true&count_private=true&bg_color=00000000&title_color=1bcf62&text_color=878787&icon_color=bb2acf&cache_seconds=1800"/> 
 <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=tamojeetK&background=00000000&hide_border=true&stroke=878787&ring=1bcf62&fire=18b158&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 <br>
   <br>
 <br>
 
-
-  <img src="https://github.com/tamojeetK/tamojeetK/assets/89387048/6eb51eac-91af-4cee-b5bc-11dd19a37d7c" width="40"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29iMml3c2h1d3Q4YXZqOWdsNHdqc2Vqdmtxc201bGV3cG1xODZ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/55jOowTAknOXC/giphy.gif" width="40"/>
   </p>
-  <!--<img src="https://github-readme-activity-graph.cyclic.app/graph?username=tamojeetK&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true">-->
-  <br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tamojeetK&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true" />
+
