@@ -91,4 +91,3 @@ Some Languages & Tools I am experienced with... <img src="https://user-images.gi
   </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamojeetK&bg_color=00000000&color=878787&line=1bcf62&point=00000000&area=true&hide_border=true" />
 
-<hr/>
